@@ -1,6 +1,6 @@
 // import One from "./One"
 // import Two from "./Two"
-import Four from "./Four";
+// import Four from "./Four";
 // import Three from "./Three";
 
 export default function App() {
@@ -9,7 +9,7 @@ export default function App() {
       {/* <One/> */}
       {/* <Two/> */}
       {/* <Three /> */}
-      <Four/>
+      {/* <Four/> */}
     </div>
   );
 }
