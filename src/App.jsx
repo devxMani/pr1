@@ -3,7 +3,8 @@
 // import Pr3 from "./components/pr3";
 // import Pr5 from "./components/pr5";
 // import Pr4 from "./components/pr4";
-import Pr6 from "./components/pr6";
+// import Pr6 from "./components/pr6";
+import Pr7 from "./components/pr7";
 export default function App() {
   return (
     <div>
@@ -12,7 +13,7 @@ export default function App() {
       {/* <Pr3/> */}
       {/* <Pr4 /> */}
       {/* <Pr5/> */}
-      <Pr6 />
+      <Pr7 />
     </div>
   );
 }
